@@ -1,5 +1,5 @@
-// URL format ide://open?url=file:///mnt/d/projects/zengram/zengram-advanced/legacy/components/routes/Filter.php&line=26
-// wscript handle.js -ideBinary="c:\Program Files\JetBrains\PhpStorm 2017.3.2\bin\phpstorm64.exe" -ideArguments="--line {line} {file}" -aliasFrom=/mnt/d -aliasTo=D: "ide://open?url=file:///mnt/d/projects/zengram/zengram-advanced/legacy/components/routes/Filter.php&line=26"
+// URL format ide://open?url=file:///mnt/d/projects/yii-test/components/routes/Filter.php&line=26
+// wscript handle.js -ideBinary="c:\Program Files\JetBrains\PhpStorm 2017.3.2\bin\phpstorm64.exe" -ideArguments="--line {line} {file}" -aliasFrom=/mnt/d -aliasTo=D: "ide://open?url=file:///mnt/d/projects/yii-test/components/routes/Filter.php&line=26"
 
 try {
 	var env = getArguments();
